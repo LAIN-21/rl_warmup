@@ -96,3 +96,5 @@ def plot_episode_stats(stats, smoothing_window=10, noshow=False):
         plt.show(fig3)
 
     return fig1, fig2, fig3
+
+# Added comment to trigger branch update
